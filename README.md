@@ -14,6 +14,6 @@
 
 <h3 align="left">Statistics:</h3>
   
-![Stats](https://github-readme-stats.vercel.app/api?username=0xsayed&include_all_commits=true&count_private=true&hide_rank&show_icons=true&theme=prussian&locale=en)
+![Stats](https://github-readme-stats.vercel.app/api/Stats/?username=0xsayed&include_all_commits=true&count_private=true&hide_rank&show_icons=true&theme=prussian&locale=en)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xsayed\&layout=compact)
