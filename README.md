@@ -13,6 +13,8 @@
 
 
 <h3 align="left">Statistics:</h3>
+
+![](https://komarev.com/ghpvc/?username=0xSayed&color=blue&style=plastic)
   
 ![Sayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xsayed&show_icons=true&theme=transparent)
 
